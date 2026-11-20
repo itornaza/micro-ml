@@ -1,7 +1,7 @@
 %{
 /*******************************************************************
 File:       micro-ml.l
-Name:       Ioannis Tornazakis
+Name:       ion-
 Project:    Home Assignment 2 / MicroML compiler
 Date:       7 Sep. 2007
    

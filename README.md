@@ -2,7 +2,7 @@
 
 A compiler from **MicroML**, a small functional language, to **C**.
 
-Written in C with a flex scanner and a hand-written recursive-descent parser and code generator, as coursework for my MSc at the Naval Postgraduate School (2007). Revised in 2026 to build with modern toolchains and to guarantee left-to-right argument evaluation.
+Written in C in 2007 with a flex scanner and a hand-written recursive-descent parser and code generator. Revised in 2026 to build with modern toolchains and to guarantee left-to-right argument evaluation.
 
 ## The language
 
